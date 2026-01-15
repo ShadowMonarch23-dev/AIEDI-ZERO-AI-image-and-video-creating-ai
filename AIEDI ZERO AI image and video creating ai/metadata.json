@@ -1,0 +1,8 @@
+{
+  "name": "AIEDI ZERO",
+  "description": "Unfiltered high-performance AI video and image synthesis platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
